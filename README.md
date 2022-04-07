@@ -1,2 +1,2 @@
 # github-demo
-test repository
+Test repository for ArgoCD
