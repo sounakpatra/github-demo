@@ -1,0 +1,6 @@
+namespace: nginxns
+resources:
+- nginx-deployment.yaml
+- nginx-svc.yaml
+- nginx-pv.yaml
+- nginx-pvc.yaml

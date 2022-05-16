@@ -18,9 +18,9 @@ spec:
   source:
     repoURL: https://github.com/sounakpatra/github-demo.git
     targetRevision: HEAD
-    path: nginx
-    kustomize:
-      namePrefix: base
+    path: nginxk
+    #    kustomize:
+    #      namePrefix: base
   destination:
     server: https://kubernetes.default.svc
     namespace: nginxns
